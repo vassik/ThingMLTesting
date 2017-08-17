@@ -1,3 +1,5 @@
+### This is a backtracked repository to a point where testing was distributed. Use the original ThingML repository for development!!!
+
 ![ThingML](Logotype_ThingML_100317_500px.png)
 
 The ThingML approach is composed of *i*) a **modeling language**, *ii*) a set of **tools** and *iii*) a **methodology**. The modeling language combines well-proven software modeling constructs for the design and implementation of distributed reactive systems:
